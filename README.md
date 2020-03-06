@@ -3,16 +3,16 @@
 I Play with *Bulid My Active Record Lite*  
 
 - [x] Phase 0: Implement my_attr_accessor
-- [ ] Phase I: `SQLObject:` Overview
-    - [ ] Phase Ia: `::table_name` and `::table_name=`
-    - [ ] Phase Ib: Listing Columns
-    - [ ] Phase Ic: Getters and Setters
-    - [ ] Phase Id: #initialize
-    - [ ] Phase Ie: `::all`, `::parse_all`
-    - [ ] Phase If: `::find`
-    - [ ] Phase Ig: `#insert`
-    - [ ] Phase Ih: #update
-    - [ ] Phase Ii: #save
+- [x] Phase I: `SQLObject:` Overview
+    - [x] Phase Ia: `::table_name` and `::table_name=`
+    - [x] Phase Ib: Listing Columns
+    - [x] Phase Ic: Getters and Setters
+    - [x] Phase Id: #initialize
+    - [x] Phase Ie: `::all`, `::parse_all`
+    - [x] Phase If: `::find`
+    - [x] Phase Ig: `#insert`
+    - [x] Phase Ih: #update
+    - [x] Phase Ii: #save
 - [ ] Phase II: Searchable
 - [ ] Phase III: Associatable
     - [ ] Phase IIIa: AssocOptions
