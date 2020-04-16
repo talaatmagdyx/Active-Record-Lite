@@ -13,7 +13,7 @@ I Play with *Bulid My Active Record Lite*
     - [x] Phase Ig: `#insert`
     - [x] Phase Ih: #update
     - [x] Phase Ii: #save
-- [ ] Phase II: Searchable
+- [x] Phase II: Searchable
 - [ ] Phase III: Associatable
     - [ ] Phase IIIa: AssocOptions
     - [ ] Phase IIIb: belongs_to, has_many
